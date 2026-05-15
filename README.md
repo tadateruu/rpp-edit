@@ -1,5 +1,5 @@
 # Pokémon Red++ Save Editor
-Soon to be a semi-usable save editor for Pokmon Red++ V3. Currently just a script that turns your first party member shiny.
+Soon to be a semi-usable save editor for [Pokmon Red++ V3](https://github.com/JustRegularLuna/rpp-backup). Currently just a script that turns your first party member shiny.
 
 ## Requirements
 - Python 3
